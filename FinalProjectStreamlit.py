@@ -7,8 +7,8 @@ from pathlib import Path
 
 # Konfigurasi awal streamlit
 st.set_page_config(
-    page_title = 'FSB - Final Project', 
-    page_icon = '🐧', 
+    page_title = 'Bachtiyar M. Arief - Final Project FSB', 
+    page_icon = '🤌', 
     layout = "wide"
 )
 
